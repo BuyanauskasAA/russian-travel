@@ -3,6 +3,10 @@
 
 @import '../blocks/lang-switcher/lang-switcher.css';
 @import '../blocks/lang-switcher/__item/lang-switcher__item.css';
+@import '../blocks/list/list.css';
+@import '../blocks/list/__item/list__item.css';
+@import '../blocks/list/__item/_type/list__item_type_term.css';
+@import '../blocks/list/__item/_type/list__item_type_definition.css';
 
 @import '../blocks/header/header.css';
 @import '../blocks/header/__logo/header__logo.css';
@@ -14,3 +18,8 @@
 @import '../blocks/lead/__subtitle/lead__subtitle.css';
 @import '../blocks/lead/__image/lead__image.css';
 @import '../blocks/lead/__caption/lead__caption.css';
+
+@import '../blocks/intro/intro.css';
+@import '../blocks/intro/__title/intro__title.css';
+@import '../blocks/intro/__text/intro__text.css';
+@import '../blocks/intro/__list/intro__list.css';
