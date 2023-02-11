@@ -1,0 +1,6 @@
+.language-switcher__item_active {
+  line-height: 1.17;
+  font-size: 24px;
+  font-weight: 100;
+  text-decoration: underline;
+}

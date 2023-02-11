@@ -1,1 +1,9 @@
+@import '../vendor/normalize.css';
 @import '../blocks/page/page.css';
+@import '../blocks/header/header.css';
+@import '../blocks/logo/logo.css';
+@import '../blocks/link/link.css';
+@import '../blocks/header/__link/header__link.css';
+@import '../blocks/language-switcher/language-switcher.css';
+@import '../blocks/language-switcher/__item/language-switcher__item.css';
+@import '../blocks/language-switcher/__item/_active/language-switcher__item_active.css';
