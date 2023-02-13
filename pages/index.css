@@ -28,3 +28,8 @@
 @import '../blocks/photo-grid/__container/photo-grid__container.css';
 @import '../blocks/photo-grid/__item/photo-grid__item.css';
 @import '../blocks/photo-grid/__image/photo-grid__image.css';
+
+@import '../blocks/places/places.css';
+@import '../blocks/place/place.css';
+@import '../blocks/place/__image/place__image.css';
+@import '../blocks/place/__link/place__link.css';

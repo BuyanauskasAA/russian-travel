@@ -1,0 +1,7 @@
+.place__link {
+
+}
+
+.place__link::before {
+  content: 'URL';
+}
