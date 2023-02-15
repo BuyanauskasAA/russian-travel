@@ -1,5 +1,7 @@
 # Проект: Путешествие по России
 
+* [Ссылка на проект](https://buyanauskasaa.github.io/russian-travel/)
+
 ### Обзор
 * Интро
 * Figma
