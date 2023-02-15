@@ -1,4 +1,14 @@
 .place__image {
+  grid-area: image;
+  position: relative;
   width: 100%;
-  height: auto;
+  object-fit: cover;
+  display: block;
+}
+
+@media (max-width: 320px) {
+  .place__image {
+    width: calc(100% + 16px * 2);
+    left: -16px;
+  }
 }
