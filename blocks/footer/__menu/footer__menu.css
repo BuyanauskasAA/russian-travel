@@ -1,0 +1,9 @@
+.footer__menu {
+  box-sizing: border-box;
+}
+
+@media (max-width: 320px) {
+  .footer__menu {
+    margin-bottom: 48px;
+  }
+}

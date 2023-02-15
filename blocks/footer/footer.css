@@ -1,0 +1,11 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+@media (max-width: 320px) {
+  .footer {
+    flex-direction: column;
+  }
+}
