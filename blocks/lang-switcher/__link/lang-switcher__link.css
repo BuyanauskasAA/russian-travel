@@ -1,0 +1,12 @@
+.lang-switcher__link {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.17;
+}
+
+@media (max-width: 320px) {
+  .lang-switcher__link {
+    font-size: 18px;
+    line-height: 1.11;
+  }
+}

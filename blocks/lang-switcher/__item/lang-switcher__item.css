@@ -1,3 +1,9 @@
 .lang-switcher__item {
   padding: 18px 0 0 18px;
 }
+
+@media (max-width: 320px) {
+  .lang-switcher__item {
+    padding: 14px 0 0 18px;
+  }
+}
