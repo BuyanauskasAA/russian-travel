@@ -4,6 +4,7 @@
   font-size: 72px;
   font-weight: 900;
   line-height: 1.06;
+  overflow-wrap: anywhere;
 }
 
 @media (max-width: 768px) {
