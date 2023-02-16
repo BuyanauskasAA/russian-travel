@@ -8,13 +8,13 @@
 @media (max-width: 768px) {
   .lead__image {
     width: calc(100% + 24px * 2);
-    left: -24px;
+    right: 24px;
   }
 }
 
 @media (max-width: 320px) {
   .lead__image {
     width: calc(100% + 16px * 2);
-    left: -16px;
+    right: 16px;
   }
 }
