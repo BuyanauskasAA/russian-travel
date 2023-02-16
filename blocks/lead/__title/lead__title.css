@@ -5,6 +5,7 @@
   font-weight: 900;
   line-height: 1.04;
   text-align: center;
+  overflow-wrap: anywhere;
 }
 
 @media (max-width: 320px) {
@@ -12,5 +13,6 @@
     margin: 0 auto 16px;
     font-size: 40px;
     line-height: 1.1;
+    overflow-wrap: normal;
   }
 }
