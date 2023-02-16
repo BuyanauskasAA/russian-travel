@@ -24,11 +24,8 @@
 @import '../blocks/header/__logo/header__logo.css';
 
 @import '../blocks/content/content.css';
-@import '../blocks/content/__lead/content__lead.css';
-@import '../blocks/content/__intro/content__intro.css';
-@import '../blocks/content/__photo-grid/content__photo-grid.css';
+@import '../blocks/content/__section/content__section.css';
 @import '../blocks/content/__places/content__places.css';
-@import '../blocks/content/__cover/content__cover.css';
 
 @import '../blocks/lead/lead.css';
 @import '../blocks/lead/__title/lead__title.css';
