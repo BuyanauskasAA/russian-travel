@@ -1,27 +1,25 @@
 .cover {
-  position: relative;
   width: 100%;
   box-sizing: border-box;
-  overflow-wrap: anywhere;
 }
 
 @media (max-width: 1024px) {
   .cover {
     width: calc(100% + 48px * 2);
-    right: 48px;
+    translate: -48px;
   }
 }
 
 @media (max-width: 768px) {
   .cover {
     width: calc(100% + 24px * 2);
-    right: 24px;
+    translate: -24px;
   }
 }
 
 @media (max-width: 320px) {
   .cover {
     width: calc(100% + 16px * 2);
-    right: 16px;
+    translate: -16px;
   }
 }
