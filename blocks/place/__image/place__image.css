@@ -1,6 +1,5 @@
 .place__image {
   grid-area: image;
-  position: relative;
   width: 100%;
   display: block;
   object-fit: cover;
@@ -16,6 +15,6 @@
 @media (max-width: 320px) {
   .place__image {
     width: calc(100% + 16px * 2);
-    right: 16px;
+    translate: -16px 0;
   }
 }
