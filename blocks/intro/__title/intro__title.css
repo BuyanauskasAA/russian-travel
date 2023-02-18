@@ -5,10 +5,16 @@
   line-height: 1.07;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 720px) {
   .intro__title {
+    max-width: 420px;
+  }
+}
+
+@media (max-width: 400px) {
+  .intro__title {
+    max-width: 235px;
     font-size: 32px;
     line-height: 1.09;
-    padding-right: 50px;
   }
 }
