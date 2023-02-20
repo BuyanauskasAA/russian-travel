@@ -13,3 +13,4 @@
   * [Git](https://git-scm.com/)
   * [Flexbox](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Flexbox)
   * [Grid Layout](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
+  * [БЭМ](https://ru.bem.info/)
